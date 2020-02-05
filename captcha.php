@@ -22,7 +22,7 @@
 .header {
     text-align: center;
     margin-top: 10px;
-}
+} 
 
 .current_captcha {
     font-size: 22px;
